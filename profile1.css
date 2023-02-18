@@ -1,0 +1,75 @@
+
+body{
+    background-color:#111111;
+    margin: 0;
+}
+.mainbody{
+    position: absolute;
+width: 549px;
+height: 58px;
+left: 92px;
+top: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.Rec0{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1645px;
+height: 135px;
+left: 41px;
+top: 33px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.Rec1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 506px;
+    height: 311px;
+    left: 41px;
+    top: 197px;
+    
+    background: #111111;
+    border: 2px solid #808080;
+    border-radius: 20px;
+    }
+.Rec2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 355px;
+left: 47px;
+top: 537px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+
+.Rec3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 306px;
+left: 41px;
+top: 928px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+    
